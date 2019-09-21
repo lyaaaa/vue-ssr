@@ -1,16 +1,12 @@
-# ssr
+# 项目介绍
+vue服务端渲染 （vue-router + express）
 
-## Project setup
+## 项目初始化
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目运行
 ```
-npm run dev
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm run build && npm run dev
 ```
